@@ -5,6 +5,8 @@
 <h2> Had to do the whole thing again from scratch. what a Pain!! </h2>
 <h2> Checking end to end deployment using Ansible and github poll option</h2>
 <h2> Checking end to end deployment using Ansible after cleaning up existing images after resolving typos as well. Fixed swap file issue</h2>
+<h2> Created new ansible playbook</h2>
+
 
 
 
